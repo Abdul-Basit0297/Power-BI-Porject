@@ -1,4 +1,4 @@
-# Power BI dashboard
+# Power BI Attrition dashboard
 Delve into my Comprehensive Power BI Dashboard
 
 As organizations strive for growth and success, understanding employee attrition becomes paramount. I'm excited to present my Power BI Dashboard.
